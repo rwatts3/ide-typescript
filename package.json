@@ -19,34 +19,34 @@
         "2.0.0": "consumeLinterV2"
       }
     },
-    "nuclide-datatip.provider": {
+    "datatip": {
       "versions": {
         "0.0.0": "consumeDatatip"
       }
     }
   },
   "providedServices": {
-    "autocomplete.provider": {
+    "autocomplete": {
       "versions": {
         "2.0.0": "provideAutocomplete"
       }
     },
-    "nuclide-code-format.provider": {
+    "code-format": {
       "versions": {
         "0.0.0": "provideCodeFormat"
       }
     },
-    "nuclide-definition-provider": {
+    "definitions": {
       "versions": {
         "0.0.0": "provideDefinitions"
       }
     },
-    "nuclide-find-references.provider": {
+    "find-references": {
       "versions": {
         "0.0.0": "provideFindReferences"
       }
     },
-    "nuclide-outline-view": {
+    "outline-view": {
       "versions": {
         "0.0.0": "provideOutlines"
       }

@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "atom-languageclient": "github:atom/atom-languageclient",
-    "javascript-typescript-langserver": "2.0.1"
+    "javascript-typescript-langserver": "latest"
   },
   "consumedServices": {
     "linter-indie": {
